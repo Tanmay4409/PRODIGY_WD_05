@@ -1,7 +1,7 @@
 # PRODIGY_WD_05
 # Weather App
 
-This is a simple web-based Weather app application built with HTML, CSS, and JavaScript. The app allows user to get live location of any place using API.
+This is a simple web-based Weather app application built with HTML, CSS, and JavaScript. The app allows user to get live Weather of any place using API.
 
 ![Screenshot of App](screenshot.png)
 
